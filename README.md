@@ -20,3 +20,9 @@ This app allows you to _quickly_ and _selectively_ notify your friends, family, 
 ![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/spont_loading_view.png?raw=true)
 ![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/friend_view.png?raw=true)
 ![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/create_group_view.png?raw=true)
+
+# Planning and Development Process
+
+For this project we used an agile/scrum process paired with github style kanban boards
+
+![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/development_process_kanban.png?raw=true)
