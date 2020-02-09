@@ -13,3 +13,10 @@ In order to drive spontaneous interactions with other people, Spont allows you t
 Spont is focus around using a cloud driven database architecture that serves up a geo-location services to users.
 
 This app allows you to _quickly_ and _selectively_ notify your friends, family, acquaintances, and others of where you are!
+
+# Prototypes and Design Phase
+
+![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/maps_view.png?raw=true)  
+![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/spont_loading_view.png?raw=true)
+![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/friend_view.png?raw=true)
+![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/create_group_view.png?raw=true)
