@@ -36,7 +36,7 @@ For this project we used an agile/scrum process paired with github style kanban 
 ![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/UML%20-%20State%20Diagram.png?raw=true)
 
 # Our Team
-![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/svlt_logo_ver15.png?raw=true)
+![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/svlt_logo_ver17.png?raw=true)
 ![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/wendy1.jpg?raw=true) ![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/matt1.jpg?raw=true)  
 ----------------------Wendy---------------------------------------Matt-------------------------  
 ![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/calvin1.jpg?raw=true) ![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/mark1.jpg?raw=true)  
