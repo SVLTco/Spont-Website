@@ -1,4 +1,4 @@
-![image](assets/spont_logo_ver13.png)
+![image](assets/spont_logo_ver14.png)
 
 # Welcome to SPONT~~aneous~~
 
