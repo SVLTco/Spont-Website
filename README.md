@@ -1,4 +1,4 @@
-![image](assets/spont_logo_ver14.png)
+![image](https://github.com/SVLTco/Spont-Website/blob/master/assets/spont_logo_ver14.png?raw=true)
 
 # Welcome to SPONT~~aneous~~
 
