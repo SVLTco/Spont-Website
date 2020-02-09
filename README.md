@@ -1,6 +1,11 @@
 ![image](assets/spont_logo_ver13.png)
 
 # Welcome to SPONT~~aneous~~
+
+**Social**  
+**POsitioning &**  
+**NeTworking app**  
+
 Spont is an app focused around providing opportunities to friends to hang out SPONTaneously!
 
 In order to drive spontaneous interactions with other people, Spont allows you to notify groups of friends with your current location so that you can meet up SPONTaneously! You can use this feature for various purposes, this can include coffee meetups, parties, social gatherings, snowball fights, and so many more events!
